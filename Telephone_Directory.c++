@@ -1,5 +1,5 @@
-#include <iostream>   // Include the standard input-output stream library
-#include <string>     // Include the string library for using std::string
+#include <iostream>  
+#include <string>    
 
 // Structure to store the name details
 struct Name {
